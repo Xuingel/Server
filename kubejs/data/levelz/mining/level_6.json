@@ -1,0 +1,8 @@
+{
+	"replace": true,
+	"level": 6,
+	"block": [
+		"minecraft:iron_ore",
+		"minecraft:dripstone_block"
+	]
+}

@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "strength",
+    "level": 40,
+    "item": "minecraft:sword",
+    "material": "techreborn:nanosaber"
+}

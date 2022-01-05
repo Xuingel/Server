@@ -1,0 +1,7 @@
+{
+    "replace": true,
+    "skill": "farming",
+    "level": 4,
+    "item": "minecraft:custom_item",
+    "object": "harvest_scythes:stone_machete"
+}

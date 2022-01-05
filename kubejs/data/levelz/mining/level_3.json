@@ -1,0 +1,11 @@
+{
+	"replace": true,
+	"level": 3,
+	"block": [
+		"minecraft:stone",
+        "minecraft:granite",
+        "minecraft:andesite",
+        "minecraft:diorite",
+		"blockus:limestone"
+	]
+}

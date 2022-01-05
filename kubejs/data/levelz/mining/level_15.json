@@ -1,0 +1,8 @@
+{
+    "replace": false,
+    "level": 15,
+    "block": [
+        "techreborn:lead_ore",
+        "techreborn:deepslate_lead_ore"
+    ]
+}
